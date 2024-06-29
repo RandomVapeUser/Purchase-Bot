@@ -1,0 +1,16 @@
+{
+    "Xbox Gamepass Alts (20 Credits)": {
+        "price": 20,
+        "accounts": []
+    },
+    "Semi Full Access (50 Credits)": {
+        "price": 50,
+        "accounts": [
+            "email2:pass2"
+        ]
+    },
+    "MCC Unbanned Accounts (10 Credits)": {
+        "price": 10,
+        "accounts": []
+    }
+}
