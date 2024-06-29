@@ -335,7 +335,7 @@ async def kick(interaction: discord.Interaction, member: discord.Member, reason:
 @bot.tree.command(description="Buy credits for the store!")
 async def buycredits(interaction: discord.Interaction):
     embed = discord.Embed(title="Shop Credits")
-    embed.add_field(name="You can buy credits at: ",value=">>: https://femb0yalts.mysellix.io/")
+    embed.add_field(name="You can buy credits at: ",value=">>: Sellix website (replace)")
     await interaction.response.send_message(embed=embed,ephemeral=True)
 
 @bot.tree.command(description="Debug (Devs Only)")
